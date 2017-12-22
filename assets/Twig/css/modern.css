@@ -13,3 +13,11 @@ body {
 .panel-heading a.collapsed:after {
     content:"\e080";
 }
+
+.feature-block {
+    margin-bottom: 0;
+}
+
+.feature-content {
+    padding: 20px;
+}
